@@ -47,7 +47,7 @@ public class CloudHSMKeyStoreExampleRunner {
             "\t--store <filename>\t\tPath of the keystore.\n" +
             "\t--password <password>\tPassword for the keystore (not your CU password).\n" +
             "\t--label <label>\t\t\tLabel to store the key and certificate under.\n" +
-             "\t--cert <cert-filename>\t\t\tCertificate file name to associate with private key\n" +
+             "\t--cert <cert-filename>\tCertificate file name to associate with private key\n" +
             "\t--list\t\t\t\t\tList all the keys in the keystore.\n\n";
 
     public static void main(String[] args) throws Exception {
