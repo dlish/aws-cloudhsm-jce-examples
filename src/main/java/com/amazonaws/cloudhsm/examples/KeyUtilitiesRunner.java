@@ -28,6 +28,7 @@ import com.cavium.key.CaviumRSAPrivateKey;
 import com.cavium.key.CaviumRSAPublicKey;
 import com.cavium.key.parameter.CaviumECGenParameterSpec;
 import com.cavium.key.parameter.CaviumKeyGenAlgorithmParameterSpec;
+import com.cavium.key.parameter.CaviumRSAKeyGenParameterSpec;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
